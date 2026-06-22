@@ -1,0 +1,88 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Package/build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+logs/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# RAG / Vector DB / Embeddings
+# Không đưa các file sinh tự động lên GitHub
+# =========================
+chroma_db/
+vector_db/
+faiss_index/
+embeddings/
+indexes/
+storage/
+cache/
+.cache/
+
+# Model / checkpoint lớn
+models/
+checkpoints/
+*.bin
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
+# Pickle/joblib thường là file sinh tự động
+*.pkl
+*.joblib
+
+# =========================
+# Git internal large files
+# Tuyệt đối không commit các file này
+# =========================
+*.pack
+*.idx
+
+# =========================
+# Data lớn
+# Nếu có dữ liệu lớn thì để ngoài repo
+# Chỉ giữ sample nhỏ trong data/sample/
+# =========================
+data/large/
+data/full/
