@@ -1,0 +1,466 @@
+﻿evidence_id,resource_id,evidence_text,evidence_type
+E0001,Resource001,"Tài liệu 'Python Cơ bản cho người mới' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề Python và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0002,Resource001,"'Python Cơ bản cho người mới' phù hợp mức Beginner, hướng đến mục tiêu PracticeSkill, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0003,Resource001,"Nội dung 'Python Cơ bản cho người mới' rèn kỹ năng Python, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0004,Resource002,"Tài liệu 'Python Bài tập thực hành' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề SQL và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0005,Resource002,"'Python Bài tập thực hành' phù hợp mức Advanced, hướng đến mục tiêu BuildProject, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0006,Resource002,"Nội dung 'Python Bài tập thực hành' rèn kỹ năng SQL, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0007,Resource003,"Tài liệu 'SQL Cơ bản' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề ArtificialIntelligence và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0008,Resource003,"'SQL Cơ bản' phù hợp mức ExamPreparation, hướng đến mục tiêu AnalyzeData, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0009,Resource003,"Nội dung 'SQL Cơ bản' rèn kỹ năng React, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0010,Resource004,"Tài liệu 'SQL Practice Workbook' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề MachineLearning và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0011,Resource004,"'SQL Practice Workbook' phù hợp mức Beginner, hướng đến mục tiêu ApplyIndustry, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0012,Resource004,"Nội dung 'SQL Practice Workbook' rèn kỹ năng APIDesign, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0013,Resource005,"Tài liệu 'Slide Nhập môn Trí tuệ nhân tạo' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề WebDevelopment và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0014,Resource005,"'Slide Nhập môn Trí tuệ nhân tạo' phù hợp mức Advanced, hướng đến mục tiêu ResearchTopic, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0015,Resource005,"Nội dung 'Slide Nhập môn Trí tuệ nhân tạo' rèn kỹ năng DataAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0016,Resource006,"Tài liệu 'Pandas Tutorial' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề Database và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0017,Resource006,"'Pandas Tutorial' phù hợp mức ExamPreparation, hướng đến mục tiêu PracticeCoding, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0018,Resource006,"Nội dung 'Pandas Tutorial' rèn kỹ năng MachineLearning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0019,Resource007,"Tài liệu 'Data Visualization với Matplotlib' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề DataAnalysis và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0020,Resource007,"'Data Visualization với Matplotlib' phù hợp mức Beginner, hướng đến mục tiêu ImproveLanguage, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0021,Resource007,"Nội dung 'Data Visualization với Matplotlib' rèn kỹ năng Git, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0022,Resource008,"Tài liệu 'Machine Learning Cơ bản' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề Git và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0023,Resource008,"'Machine Learning Cơ bản' phù hợp mức Advanced, hướng đến mục tiêu TechnicalMaintenance, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0024,Resource008,"Nội dung 'Machine Learning Cơ bản' rèn kỹ năng Debugging, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0025,Resource009,"Tài liệu 'Cấu trúc dữ liệu qua ví dụ' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề Python và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0026,Resource009,"'Cấu trúc dữ liệu qua ví dụ' phù hợp mức ExamPreparation, hướng đến mục tiêu SupplyChainOptimization, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0027,Resource009,"Nội dung 'Cấu trúc dữ liệu qua ví dụ' rèn kỹ năng Python, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0028,Resource010,"Tài liệu 'Java OOP Tutorial' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề SQL và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0029,Resource010,"'Java OOP Tutorial' phù hợp mức Beginner, hướng đến mục tiêu ProfessionalCertification, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0030,Resource010,"Nội dung 'Java OOP Tutorial' rèn kỹ năng SQL, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0031,Resource011,"Tài liệu 'Web Frontend Cơ bản' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề ArtificialIntelligence và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0032,Resource011,"'Web Frontend Cơ bản' phù hợp mức Advanced, hướng đến mục tiêu PracticeSkill, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0033,Resource011,"Nội dung 'Web Frontend Cơ bản' rèn kỹ năng React, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0034,Resource012,"Tài liệu 'Git và GitHub cho sinh viên' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề MachineLearning và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0035,Resource012,"'Git và GitHub cho sinh viên' phù hợp mức ExamPreparation, hướng đến mục tiêu BuildProject, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0036,Resource012,"Nội dung 'Git và GitHub cho sinh viên' rèn kỹ năng APIDesign, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0037,Resource013,"Tài liệu 'Notebook Phân tích dữ liệu mẫu' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề WebDevelopment và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0038,Resource013,"'Notebook Phân tích dữ liệu mẫu' phù hợp mức Beginner, hướng đến mục tiêu AnalyzeData, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0039,Resource013,"Nội dung 'Notebook Phân tích dữ liệu mẫu' rèn kỹ năng DataAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0040,Resource014,"Tài liệu 'Đồ án mẫu Python Data Analysis' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề Database và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0041,Resource014,"'Đồ án mẫu Python Data Analysis' phù hợp mức Advanced, hướng đến mục tiêu ApplyIndustry, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0042,Resource014,"Nội dung 'Đồ án mẫu Python Data Analysis' rèn kỹ năng MachineLearning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0043,Resource015,"Tài liệu 'Slide Lý thuyết Cơ sở dữ liệu' thuộc ngành Công nghệ thông tin, hỗ trợ chủ đề DataAnalysis và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0044,Resource015,"'Slide Lý thuyết Cơ sở dữ liệu' phù hợp mức ExamPreparation, hướng đến mục tiêu ResearchTopic, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0045,Resource015,"Nội dung 'Slide Lý thuyết Cơ sở dữ liệu' rèn kỹ năng Git, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0046,Resource016,"Tài liệu 'Quản trị học căn bản' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề Management và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0047,Resource016,"'Quản trị học căn bản' phù hợp mức ProjectReady, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0048,Resource016,"Nội dung 'Quản trị học căn bản' rèn kỹ năng Planning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0049,Resource017,"Tài liệu 'Chiến lược kinh doanh qua tình huống' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề BusinessStrategy và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0050,Resource017,"'Chiến lược kinh doanh qua tình huống' phù hợp mức Foundation, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0051,Resource017,"Nội dung 'Chiến lược kinh doanh qua tình huống' rèn kỹ năng Leadership, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0052,Resource018,"Tài liệu 'Hành vi tổ chức cho nhà quản trị' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề OrganizationalBehavior và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0053,Resource018,"'Hành vi tổ chức cho nhà quản trị' phù hợp mức Intermediate, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0054,Resource018,"Nội dung 'Hành vi tổ chức cho nhà quản trị' rèn kỹ năng MarketAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0055,Resource019,"Tài liệu 'Khởi nghiệp và mô hình kinh doanh' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề Entrepreneurship và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0056,Resource019,"'Khởi nghiệp và mô hình kinh doanh' phù hợp mức ProjectReady, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0057,Resource019,"Nội dung 'Khởi nghiệp và mô hình kinh doanh' rèn kỹ năng DecisionMaking, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0058,Resource020,"Tài liệu 'Quản trị nhân sự thực hành' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề HumanResource và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0059,Resource020,"'Quản trị nhân sự thực hành' phù hợp mức Foundation, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0060,Resource020,"Nội dung 'Quản trị nhân sự thực hành' rèn kỹ năng Teamwork, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0061,Resource021,"Tài liệu 'Lập kế hoạch kinh doanh mẫu' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề BusinessPlanning và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0062,Resource021,"'Lập kế hoạch kinh doanh mẫu' phù hợp mức Intermediate, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0063,Resource021,"Nội dung 'Lập kế hoạch kinh doanh mẫu' rèn kỹ năng BusinessWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0064,Resource022,"Tài liệu 'Kỹ năng ra quyết định quản trị' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề Management và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0065,Resource022,"'Kỹ năng ra quyết định quản trị' phù hợp mức ProjectReady, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0066,Resource022,"Nội dung 'Kỹ năng ra quyết định quản trị' rèn kỹ năng Planning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0067,Resource023,"Tài liệu 'Phân tích môi trường kinh doanh' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề BusinessStrategy và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0068,Resource023,"'Phân tích môi trường kinh doanh' phù hợp mức Foundation, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0069,Resource023,"Nội dung 'Phân tích môi trường kinh doanh' rèn kỹ năng Leadership, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0070,Resource024,"Tài liệu 'Quản trị vận hành căn bản' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề OrganizationalBehavior và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0071,Resource024,"'Quản trị vận hành căn bản' phù hợp mức Intermediate, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0072,Resource024,"Nội dung 'Quản trị vận hành căn bản' rèn kỹ năng MarketAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0073,Resource025,"Tài liệu 'Bài tập tình huống quản trị' thuộc ngành Quản trị kinh doanh, hỗ trợ chủ đề Entrepreneurship và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0074,Resource025,"'Bài tập tình huống quản trị' phù hợp mức ProjectReady, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0075,Resource025,"Nội dung 'Bài tập tình huống quản trị' rèn kỹ năng DecisionMaking, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0076,Resource026,"Tài liệu 'Nghiệp vụ lễ tân khách sạn' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề FrontOffice và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0077,Resource026,"'Nghiệp vụ lễ tân khách sạn' phù hợp mức Intermediate, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0078,Resource026,"Nội dung 'Nghiệp vụ lễ tân khách sạn' rèn kỹ năng FrontOfficeService, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0079,Resource027,"Tài liệu 'Quản trị buồng phòng cơ bản' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề Housekeeping và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0080,Resource027,"'Quản trị buồng phòng cơ bản' phù hợp mức ProjectReady, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0081,Resource027,"Nội dung 'Quản trị buồng phòng cơ bản' rèn kỹ năng GuestCommunication, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0082,Resource028,"Tài liệu 'Dịch vụ nhà hàng khách sạn' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề FoodBeverage và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0083,Resource028,"'Dịch vụ nhà hàng khách sạn' phù hợp mức Foundation, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0084,Resource028,"Nội dung 'Dịch vụ nhà hàng khách sạn' rèn kỹ năng ReservationHandling, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0085,Resource029,"Tài liệu 'Xử lý tình huống khách hàng' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề HotelService và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0086,Resource029,"'Xử lý tình huống khách hàng' phù hợp mức Intermediate, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0087,Resource029,"Nội dung 'Xử lý tình huống khách hàng' rèn kỹ năng HousekeepingInspection, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0088,Resource030,"Tài liệu 'Quản trị trải nghiệm khách lưu trú' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề GuestExperience và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0089,Resource030,"'Quản trị trải nghiệm khách lưu trú' phù hợp mức ProjectReady, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0090,Resource030,"Nội dung 'Quản trị trải nghiệm khách lưu trú' rèn kỹ năng ServiceRecovery, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0091,Resource031,"Tài liệu 'Tài liệu đặt phòng và check-in' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề HospitalityManagement và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0092,Resource031,"'Tài liệu đặt phòng và check-in' phù hợp mức Foundation, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0093,Resource031,"Nội dung 'Tài liệu đặt phòng và check-in' rèn kỹ năng EventCoordination, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0094,Resource032,"Tài liệu 'Tiêu chuẩn phục vụ khách sạn' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề FrontOffice và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0095,Resource032,"'Tiêu chuẩn phục vụ khách sạn' phù hợp mức Intermediate, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0096,Resource032,"Nội dung 'Tiêu chuẩn phục vụ khách sạn' rèn kỹ năng FrontOfficeService, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0097,Resource033,"Tài liệu 'Quản trị chất lượng dịch vụ lưu trú' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề Housekeeping và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0098,Resource033,"'Quản trị chất lượng dịch vụ lưu trú' phù hợp mức ProjectReady, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0099,Resource033,"Nội dung 'Quản trị chất lượng dịch vụ lưu trú' rèn kỹ năng GuestCommunication, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0100,Resource034,"Tài liệu 'Kỹ năng giao tiếp ngành khách sạn' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề FoodBeverage và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0101,Resource034,"'Kỹ năng giao tiếp ngành khách sạn' phù hợp mức Foundation, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0102,Resource034,"Nội dung 'Kỹ năng giao tiếp ngành khách sạn' rèn kỹ năng ReservationHandling, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0103,Resource035,"Tài liệu 'Case study vận hành khách sạn' thuộc ngành Quản trị khách sạn, hỗ trợ chủ đề HotelService và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0104,Resource035,"'Case study vận hành khách sạn' phù hợp mức Intermediate, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0105,Resource035,"Nội dung 'Case study vận hành khách sạn' rèn kỹ năng HousekeepingInspection, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0106,Resource036,"Tài liệu 'Ngữ pháp tiếng Anh nền tảng' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề EnglishGrammar và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0107,Resource036,"'Ngữ pháp tiếng Anh nền tảng' phù hợp mức Foundation, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0108,Resource036,"Nội dung 'Ngữ pháp tiếng Anh nền tảng' rèn kỹ năng Grammar, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0109,Resource037,"Tài liệu 'Academic Writing cho sinh viên' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề AcademicWriting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0110,Resource037,"'Academic Writing cho sinh viên' phù hợp mức Intermediate, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0111,Resource037,"Nội dung 'Academic Writing cho sinh viên' rèn kỹ năng EssayWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0112,Resource038,"Tài liệu 'IELTS Listening Practice' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề IELTS và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0113,Resource038,"'IELTS Listening Practice' phù hợp mức ProjectReady, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0114,Resource038,"Nội dung 'IELTS Listening Practice' rèn kỹ năng ListeningPractice, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0115,Resource039,"Tài liệu 'IELTS Speaking theo chủ đề' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề BusinessEnglish và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0116,Resource039,"'IELTS Speaking theo chủ đề' phù hợp mức Foundation, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0117,Resource039,"Nội dung 'IELTS Speaking theo chủ đề' rèn kỹ năng SpeakingFluency, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0118,Resource040,"Tài liệu 'Business English Communication' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề Speaking và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0119,Resource040,"'Business English Communication' phù hợp mức Intermediate, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0120,Resource040,"Nội dung 'Business English Communication' rèn kỹ năng VocabularyBuilding, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0121,Resource041,"Tài liệu 'Từ vựng học thuật tiếng Anh' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề Listening và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0122,Resource041,"'Từ vựng học thuật tiếng Anh' phù hợp mức ProjectReady, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0123,Resource041,"Nội dung 'Từ vựng học thuật tiếng Anh' rèn kỹ năng TranslationSkill, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0124,Resource042,"Tài liệu 'Đọc hiểu tiếng Anh học thuật' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề Reading và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0125,Resource042,"'Đọc hiểu tiếng Anh học thuật' phù hợp mức Foundation, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0126,Resource042,"Nội dung 'Đọc hiểu tiếng Anh học thuật' rèn kỹ năng Grammar, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0127,Resource043,"Tài liệu 'Kỹ năng dịch Anh Việt cơ bản' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề Translation và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0128,Resource043,"'Kỹ năng dịch Anh Việt cơ bản' phù hợp mức Intermediate, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0129,Resource043,"Nội dung 'Kỹ năng dịch Anh Việt cơ bản' rèn kỹ năng EssayWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0130,Resource044,"Tài liệu 'Phát âm tiếng Anh thực hành' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề EnglishGrammar và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0131,Resource044,"'Phát âm tiếng Anh thực hành' phù hợp mức ProjectReady, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0132,Resource044,"Nội dung 'Phát âm tiếng Anh thực hành' rèn kỹ năng ListeningPractice, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0133,Resource045,"Tài liệu 'Viết email tiếng Anh công việc' thuộc ngành Ngôn ngữ Anh, hỗ trợ chủ đề AcademicWriting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0134,Resource045,"'Viết email tiếng Anh công việc' phù hợp mức Foundation, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0135,Resource045,"Nội dung 'Viết email tiếng Anh công việc' rèn kỹ năng SpeakingFluency, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0136,Resource046,"Tài liệu 'Tiếng Trung HSK 1 nhập môn' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề ChineseHSK và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0137,Resource046,"'Tiếng Trung HSK 1 nhập môn' phù hợp mức ProjectReady, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0138,Resource046,"Nội dung 'Tiếng Trung HSK 1 nhập môn' rèn kỹ năng HSKVocabulary, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0139,Resource047,"Tài liệu 'Tiếng Trung HSK 2 luyện tập' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề ChineseSpeaking và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0140,Resource047,"'Tiếng Trung HSK 2 luyện tập' phù hợp mức Foundation, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0141,Resource047,"Nội dung 'Tiếng Trung HSK 2 luyện tập' rèn kỹ năng ChineseListening, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0142,Resource048,"Tài liệu 'Ngữ pháp tiếng Trung cơ bản' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề ChineseGrammar và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0143,Resource048,"'Ngữ pháp tiếng Trung cơ bản' phù hợp mức Intermediate, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0144,Resource048,"Nội dung 'Ngữ pháp tiếng Trung cơ bản' rèn kỹ năng ChineseSpeaking, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0145,Resource049,"Tài liệu 'Giao tiếp tiếng Trung hằng ngày' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề BusinessChinese và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0146,Resource049,"'Giao tiếp tiếng Trung hằng ngày' phù hợp mức ProjectReady, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0147,Resource049,"Nội dung 'Giao tiếp tiếng Trung hằng ngày' rèn kỹ năng CharacterWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0148,Resource050,"Tài liệu 'Từ vựng tiếng Trung thương mại' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề ChineseVocabulary và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0149,Resource050,"'Từ vựng tiếng Trung thương mại' phù hợp mức Foundation, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0150,Resource050,"Nội dung 'Từ vựng tiếng Trung thương mại' rèn kỹ năng BusinessConversation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0151,Resource051,"Tài liệu 'Luyện nghe tiếng Trung cơ bản' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề TranslationChinese và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0152,Resource051,"'Luyện nghe tiếng Trung cơ bản' phù hợp mức Intermediate, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0153,Resource051,"Nội dung 'Luyện nghe tiếng Trung cơ bản' rèn kỹ năng ChineseTranslation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0154,Resource052,"Tài liệu 'Viết chữ Hán cho người mới' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề ChineseHSK và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0155,Resource052,"'Viết chữ Hán cho người mới' phù hợp mức ProjectReady, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0156,Resource052,"Nội dung 'Viết chữ Hán cho người mới' rèn kỹ năng HSKVocabulary, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0157,Resource053,"Tài liệu 'Dịch Trung Việt căn bản' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề ChineseSpeaking và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0158,Resource053,"'Dịch Trung Việt căn bản' phù hợp mức Foundation, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0159,Resource053,"Nội dung 'Dịch Trung Việt căn bản' rèn kỹ năng ChineseListening, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0160,Resource054,"Tài liệu 'Tiếng Trung khách sạn du lịch' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề ChineseGrammar và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0161,Resource054,"'Tiếng Trung khách sạn du lịch' phù hợp mức Intermediate, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0162,Resource054,"Nội dung 'Tiếng Trung khách sạn du lịch' rèn kỹ năng ChineseSpeaking, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0163,Resource055,"Tài liệu 'Business Chinese thực hành' thuộc ngành Ngôn ngữ Trung, hỗ trợ chủ đề BusinessChinese và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0164,Resource055,"'Business Chinese thực hành' phù hợp mức ProjectReady, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0165,Resource055,"Nội dung 'Business Chinese thực hành' rèn kỹ năng CharacterWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0166,Resource056,"Tài liệu 'Động cơ ô tô căn bản' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề AutomotiveEngine và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0167,Resource056,"'Động cơ ô tô căn bản' phù hợp mức Intermediate, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0168,Resource056,"Nội dung 'Động cơ ô tô căn bản' rèn kỹ năng EngineInspection, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0169,Resource057,"Tài liệu 'Hệ thống điện ô tô' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề AutomotiveElectrical và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0170,Resource057,"'Hệ thống điện ô tô' phù hợp mức ProjectReady, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0171,Resource057,"Nội dung 'Hệ thống điện ô tô' rèn kỹ năng DiagnosticTool, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0172,Resource058,"Tài liệu 'Chẩn đoán lỗi ô tô bằng thiết bị' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề VehicleDiagnostics và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0173,Resource058,"'Chẩn đoán lỗi ô tô bằng thiết bị' phù hợp mức Foundation, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0174,Resource058,"Nội dung 'Chẩn đoán lỗi ô tô bằng thiết bị' rèn kỹ năng WiringReading, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0175,Resource059,"Tài liệu 'Bảo dưỡng ô tô định kỳ' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề Maintenance và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0176,Resource059,"'Bảo dưỡng ô tô định kỳ' phù hợp mức Intermediate, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0177,Resource059,"Nội dung 'Bảo dưỡng ô tô định kỳ' rèn kỹ năng MaintenancePlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0178,Resource060,"Tài liệu 'Hệ thống truyền lực ô tô' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề TransmissionSystem và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0179,Resource060,"'Hệ thống truyền lực ô tô' phù hợp mức ProjectReady, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0180,Resource060,"Nội dung 'Hệ thống truyền lực ô tô' rèn kỹ năng SafetyProcedure, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0181,Resource061,"Tài liệu 'An toàn xưởng dịch vụ ô tô' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề EVTechnology và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0182,Resource061,"'An toàn xưởng dịch vụ ô tô' phù hợp mức Foundation, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0183,Resource061,"Nội dung 'An toàn xưởng dịch vụ ô tô' rèn kỹ năng EVSystem, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0184,Resource062,"Tài liệu 'Cảm biến và ECU trên ô tô' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề AutomotiveEngine và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0185,Resource062,"'Cảm biến và ECU trên ô tô' phù hợp mức Intermediate, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0186,Resource062,"Nội dung 'Cảm biến và ECU trên ô tô' rèn kỹ năng EngineInspection, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0187,Resource063,"Tài liệu 'Công nghệ xe điện nhập môn' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề AutomotiveElectrical và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0188,Resource063,"'Công nghệ xe điện nhập môn' phù hợp mức ProjectReady, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0189,Resource063,"Nội dung 'Công nghệ xe điện nhập môn' rèn kỹ năng DiagnosticTool, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0190,Resource064,"Tài liệu 'Quy trình kiểm tra gầm xe' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề VehicleDiagnostics và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0191,Resource064,"'Quy trình kiểm tra gầm xe' phù hợp mức Foundation, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0192,Resource064,"Nội dung 'Quy trình kiểm tra gầm xe' rèn kỹ năng WiringReading, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0193,Resource065,"Tài liệu 'Bài tập thực hành động cơ' thuộc ngành Công nghệ kỹ thuật ô tô, hỗ trợ chủ đề Maintenance và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0194,Resource065,"'Bài tập thực hành động cơ' phù hợp mức Intermediate, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0195,Resource065,"Nội dung 'Bài tập thực hành động cơ' rèn kỹ năng MaintenancePlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0196,Resource066,"Tài liệu 'Nguyên lý kế toán' thuộc ngành Kế toán, hỗ trợ chủ đề AccountingPrinciples và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0197,Resource066,"'Nguyên lý kế toán' phù hợp mức Foundation, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0198,Resource066,"Nội dung 'Nguyên lý kế toán' rèn kỹ năng JournalEntry, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0199,Resource067,"Tài liệu 'Kế toán tài chính căn bản' thuộc ngành Kế toán, hỗ trợ chủ đề FinancialAccounting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0200,Resource067,"'Kế toán tài chính căn bản' phù hợp mức Intermediate, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0201,Resource067,"Nội dung 'Kế toán tài chính căn bản' rèn kỹ năng FinancialStatement, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0202,Resource068,"Tài liệu 'Kế toán chi phí thực hành' thuộc ngành Kế toán, hỗ trợ chủ đề CostAccounting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0203,Resource068,"'Kế toán chi phí thực hành' phù hợp mức ProjectReady, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0204,Resource068,"Nội dung 'Kế toán chi phí thực hành' rèn kỹ năng ExcelAccounting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0205,Resource069,"Tài liệu 'Kế toán thuế cho doanh nghiệp nhỏ' thuộc ngành Kế toán, hỗ trợ chủ đề TaxAccounting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0206,Resource069,"'Kế toán thuế cho doanh nghiệp nhỏ' phù hợp mức Foundation, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0207,Resource069,"Nội dung 'Kế toán thuế cho doanh nghiệp nhỏ' rèn kỹ năng TaxDeclaration, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0208,Resource070,"Tài liệu 'Excel kế toán ứng dụng' thuộc ngành Kế toán, hỗ trợ chủ đề ExcelAccounting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0209,Resource070,"'Excel kế toán ứng dụng' phù hợp mức Intermediate, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0210,Resource070,"Nội dung 'Excel kế toán ứng dụng' rèn kỹ năng CostCalculation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0211,Resource071,"Tài liệu 'Lập báo cáo tài chính mẫu' thuộc ngành Kế toán, hỗ trợ chủ đề AuditBasics và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0212,Resource071,"'Lập báo cáo tài chính mẫu' phù hợp mức ProjectReady, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0213,Resource071,"Nội dung 'Lập báo cáo tài chính mẫu' rèn kỹ năng AuditChecklist, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0214,Resource072,"Tài liệu 'Bài tập định khoản kế toán' thuộc ngành Kế toán, hỗ trợ chủ đề AccountingPrinciples và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0215,Resource072,"'Bài tập định khoản kế toán' phù hợp mức Foundation, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0216,Resource072,"Nội dung 'Bài tập định khoản kế toán' rèn kỹ năng JournalEntry, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0217,Resource073,"Tài liệu 'Kiểm toán căn bản' thuộc ngành Kế toán, hỗ trợ chủ đề FinancialAccounting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0218,Resource073,"'Kiểm toán căn bản' phù hợp mức Intermediate, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0219,Resource073,"Nội dung 'Kiểm toán căn bản' rèn kỹ năng FinancialStatement, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0220,Resource074,"Tài liệu 'Sổ sách kế toán thực hành' thuộc ngành Kế toán, hỗ trợ chủ đề CostAccounting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0221,Resource074,"'Sổ sách kế toán thực hành' phù hợp mức ProjectReady, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0222,Resource074,"Nội dung 'Sổ sách kế toán thực hành' rèn kỹ năng ExcelAccounting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0223,Resource075,"Tài liệu 'Phân tích chứng từ kế toán' thuộc ngành Kế toán, hỗ trợ chủ đề TaxAccounting và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0224,Resource075,"'Phân tích chứng từ kế toán' phù hợp mức Foundation, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0225,Resource075,"Nội dung 'Phân tích chứng từ kế toán' rèn kỹ năng TaxDeclaration, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0226,Resource076,"Tài liệu 'Tài chính doanh nghiệp căn bản' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề CorporateFinance và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0227,Resource076,"'Tài chính doanh nghiệp căn bản' phù hợp mức ProjectReady, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0228,Resource076,"Nội dung 'Tài chính doanh nghiệp căn bản' rèn kỹ năng FinancialAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0229,Resource077,"Tài liệu 'Ngân hàng thương mại' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề Banking và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0230,Resource077,"'Ngân hàng thương mại' phù hợp mức Foundation, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0231,Resource077,"Nội dung 'Ngân hàng thương mại' rèn kỹ năng CreditScoring, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0232,Resource078,"Tài liệu 'Phân tích tín dụng cá nhân' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề Investment và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0233,Resource078,"'Phân tích tín dụng cá nhân' phù hợp mức Intermediate, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0234,Resource078,"Nội dung 'Phân tích tín dụng cá nhân' rèn kỹ năng InvestmentEvaluation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0235,Resource079,"Tài liệu 'Đầu tư chứng khoán nhập môn' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề RiskManagement và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0236,Resource079,"'Đầu tư chứng khoán nhập môn' phù hợp mức ProjectReady, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0237,Resource079,"Nội dung 'Đầu tư chứng khoán nhập môn' rèn kỹ năng RiskAssessment, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0238,Resource080,"Tài liệu 'Quản trị rủi ro tài chính' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề CreditAnalysis và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0239,Resource080,"'Quản trị rủi ro tài chính' phù hợp mức Foundation, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0240,Resource080,"Nội dung 'Quản trị rủi ro tài chính' rèn kỹ năng CashFlowAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0241,Resource081,"Tài liệu 'Thị trường tài chính và tiền tệ' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề FinancialMarkets và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0242,Resource081,"'Thị trường tài chính và tiền tệ' phù hợp mức Intermediate, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0243,Resource081,"Nội dung 'Thị trường tài chính và tiền tệ' rèn kỹ năng BankingOperations, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0244,Resource082,"Tài liệu 'Phân tích dòng tiền' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề CorporateFinance và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0245,Resource082,"'Phân tích dòng tiền' phù hợp mức ProjectReady, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0246,Resource082,"Nội dung 'Phân tích dòng tiền' rèn kỹ năng FinancialAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0247,Resource083,"Tài liệu 'Định giá dự án đầu tư' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề Banking và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0248,Resource083,"'Định giá dự án đầu tư' phù hợp mức Foundation, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0249,Resource083,"Nội dung 'Định giá dự án đầu tư' rèn kỹ năng CreditScoring, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0250,Resource084,"Tài liệu 'Nghiệp vụ ngân hàng số' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề Investment và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0251,Resource084,"'Nghiệp vụ ngân hàng số' phù hợp mức Intermediate, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0252,Resource084,"Nội dung 'Nghiệp vụ ngân hàng số' rèn kỹ năng InvestmentEvaluation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0253,Resource085,"Tài liệu 'Bài tập tài chính doanh nghiệp' thuộc ngành Tài chính ngân hàng, hỗ trợ chủ đề RiskManagement và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0254,Resource085,"'Bài tập tài chính doanh nghiệp' phù hợp mức ProjectReady, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0255,Resource085,"Nội dung 'Bài tập tài chính doanh nghiệp' rèn kỹ năng RiskAssessment, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0256,Resource086,"Tài liệu 'Quản trị chuỗi cung ứng' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề SupplyChain và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0257,Resource086,"'Quản trị chuỗi cung ứng' phù hợp mức Intermediate, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0258,Resource086,"Nội dung 'Quản trị chuỗi cung ứng' rèn kỹ năng WarehousePlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0259,Resource087,"Tài liệu 'Quản lý kho vận thực hành' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề Warehouse và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0260,Resource087,"'Quản lý kho vận thực hành' phù hợp mức ProjectReady, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0261,Resource087,"Nội dung 'Quản lý kho vận thực hành' rèn kỹ năng InventoryControl, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0262,Resource088,"Tài liệu 'Vận tải và giao nhận hàng hóa' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề Transportation và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0263,Resource088,"'Vận tải và giao nhận hàng hóa' phù hợp mức Foundation, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0264,Resource088,"Nội dung 'Vận tải và giao nhận hàng hóa' rèn kỹ năng ProcurementAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0265,Resource089,"Tài liệu 'Chứng từ xuất nhập khẩu' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề Procurement và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0266,Resource089,"'Chứng từ xuất nhập khẩu' phù hợp mức Intermediate, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0267,Resource089,"Nội dung 'Chứng từ xuất nhập khẩu' rèn kỹ năng ShippingDocument, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0268,Resource090,"Tài liệu 'Mua hàng và nhà cung cấp' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề InventoryManagement và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0269,Resource090,"'Mua hàng và nhà cung cấp' phù hợp mức ProjectReady, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0270,Resource090,"Nội dung 'Mua hàng và nhà cung cấp' rèn kỹ năng RouteOptimization, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0271,Resource091,"Tài liệu 'Dự báo nhu cầu trong logistics' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề ImportExport và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0272,Resource091,"'Dự báo nhu cầu trong logistics' phù hợp mức Foundation, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0273,Resource091,"Nội dung 'Dự báo nhu cầu trong logistics' rèn kỹ năng DemandForecasting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0274,Resource092,"Tài liệu 'Quản trị tồn kho' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề SupplyChain và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0275,Resource092,"'Quản trị tồn kho' phù hợp mức Intermediate, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0276,Resource092,"Nội dung 'Quản trị tồn kho' rèn kỹ năng WarehousePlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0277,Resource093,"Tài liệu 'Tối ưu tuyến vận chuyển' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề Warehouse và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0278,Resource093,"'Tối ưu tuyến vận chuyển' phù hợp mức ProjectReady, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0279,Resource093,"Nội dung 'Tối ưu tuyến vận chuyển' rèn kỹ năng InventoryControl, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0280,Resource094,"Tài liệu 'Incoterms cho người mới' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề Transportation và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0281,Resource094,"'Incoterms cho người mới' phù hợp mức Foundation, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0282,Resource094,"Nội dung 'Incoterms cho người mới' rèn kỹ năng ProcurementAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0283,Resource095,"Tài liệu 'Case study chuỗi cung ứng bán lẻ' thuộc ngành Logistics và chuỗi cung ứng, hỗ trợ chủ đề Procurement và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0284,Resource095,"'Case study chuỗi cung ứng bán lẻ' phù hợp mức Intermediate, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0285,Resource095,"Nội dung 'Case study chuỗi cung ứng bán lẻ' rèn kỹ năng ShippingDocument, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0286,Resource096,"Tài liệu 'Nghiệp vụ hướng dẫn viên du lịch' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề TourGuiding và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0287,Resource096,"'Nghiệp vụ hướng dẫn viên du lịch' phù hợp mức Foundation, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0288,Resource096,"Nội dung 'Nghiệp vụ hướng dẫn viên du lịch' rèn kỹ năng TourGuiding, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0289,Resource097,"Tài liệu 'Thiết kế chương trình tour' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề TourDesign và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0290,Resource097,"'Thiết kế chương trình tour' phù hợp mức Intermediate, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0291,Resource097,"Nội dung 'Thiết kế chương trình tour' rèn kỹ năng ItineraryPlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0292,Resource098,"Tài liệu 'Tuyến điểm du lịch Việt Nam' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề TravelOperations và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0293,Resource098,"'Tuyến điểm du lịch Việt Nam' phù hợp mức ProjectReady, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0294,Resource098,"Nội dung 'Tuyến điểm du lịch Việt Nam' rèn kỹ năng DestinationPresentation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0295,Resource099,"Tài liệu 'Điều hành tour căn bản' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề DestinationKnowledge và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0296,Resource099,"'Điều hành tour căn bản' phù hợp mức Foundation, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0297,Resource099,"Nội dung 'Điều hành tour căn bản' rèn kỹ năng CustomerCare, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0298,Resource100,"Tài liệu 'Chăm sóc khách du lịch' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề CustomerService và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0299,Resource100,"'Chăm sóc khách du lịch' phù hợp mức Intermediate, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0300,Resource100,"Nội dung 'Chăm sóc khách du lịch' rèn kỹ năng TravelDocumentation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0301,Resource101,"Tài liệu 'Du lịch bền vững nhập môn' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề SustainableTourism và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0302,Resource101,"'Du lịch bền vững nhập môn' phù hợp mức ProjectReady, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0303,Resource101,"Nội dung 'Du lịch bền vững nhập môn' rèn kỹ năng EventGuiding, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0304,Resource102,"Tài liệu 'Kỹ năng thuyết minh điểm đến' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề TourGuiding và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0305,Resource102,"'Kỹ năng thuyết minh điểm đến' phù hợp mức Foundation, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0306,Resource102,"Nội dung 'Kỹ năng thuyết minh điểm đến' rèn kỹ năng TourGuiding, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0307,Resource103,"Tài liệu 'Xử lý sự cố trong tour' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề TourDesign và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0308,Resource103,"'Xử lý sự cố trong tour' phù hợp mức Intermediate, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0309,Resource103,"Nội dung 'Xử lý sự cố trong tour' rèn kỹ năng ItineraryPlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0310,Resource104,"Tài liệu 'Hồ sơ lữ hành thực hành' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề TravelOperations và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0311,Resource104,"'Hồ sơ lữ hành thực hành' phù hợp mức ProjectReady, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0312,Resource104,"Nội dung 'Hồ sơ lữ hành thực hành' rèn kỹ năng DestinationPresentation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0313,Resource105,"Tài liệu 'Case study du lịch địa phương' thuộc ngành Du lịch và lữ hành, hỗ trợ chủ đề DestinationKnowledge và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0314,Resource105,"'Case study du lịch địa phương' phù hợp mức Foundation, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0315,Resource105,"Nội dung 'Case study du lịch địa phương' rèn kỹ năng CustomerCare, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0316,Resource106,"Tài liệu 'Photoshop cơ bản cho thiết kế' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Photoshop và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0317,Resource106,"'Photoshop cơ bản cho thiết kế' phù hợp mức ProjectReady, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0318,Resource106,"Nội dung 'Photoshop cơ bản cho thiết kế' rèn kỹ năng PhotoEditing, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0319,Resource107,"Tài liệu 'Illustrator vector thực hành' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Illustrator và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0320,Resource107,"'Illustrator vector thực hành' phù hợp mức Foundation, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0321,Resource107,"Nội dung 'Illustrator vector thực hành' rèn kỹ năng VectorDesign, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0322,Resource108,"Tài liệu 'Typography trong thiết kế' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Typography và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0323,Resource108,"'Typography trong thiết kế' phù hợp mức Intermediate, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0324,Resource108,"Nội dung 'Typography trong thiết kế' rèn kỹ năng LayoutDesign, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0325,Resource109,"Tài liệu 'Thiết kế nhận diện thương hiệu' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Branding và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0326,Resource109,"'Thiết kế nhận diện thương hiệu' phù hợp mức ProjectReady, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0327,Resource109,"Nội dung 'Thiết kế nhận diện thương hiệu' rèn kỹ năng TypographySkill, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0328,Resource110,"Tài liệu 'UI UX Design nhập môn' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề UIUXDesign và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0329,Resource110,"'UI UX Design nhập môn' phù hợp mức Foundation, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0330,Resource110,"Nội dung 'UI UX Design nhập môn' rèn kỹ năng UIPrototyping, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0331,Resource111,"Tài liệu 'Portfolio thiết kế đồ họa' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề DesignPortfolio và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0332,Resource111,"'Portfolio thiết kế đồ họa' phù hợp mức Intermediate, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0333,Resource111,"Nội dung 'Portfolio thiết kế đồ họa' rèn kỹ năng PortfolioBuilding, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0334,Resource112,"Tài liệu 'Bố cục màu sắc trong poster' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Photoshop và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0335,Resource112,"'Bố cục màu sắc trong poster' phù hợp mức ProjectReady, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0336,Resource112,"Nội dung 'Bố cục màu sắc trong poster' rèn kỹ năng PhotoEditing, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0337,Resource113,"Tài liệu 'Thiết kế banner truyền thông' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Illustrator và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0338,Resource113,"'Thiết kế banner truyền thông' phù hợp mức Foundation, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0339,Resource113,"Nội dung 'Thiết kế banner truyền thông' rèn kỹ năng VectorDesign, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0340,Resource114,"Tài liệu 'Figma cho người mới' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Typography và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0341,Resource114,"'Figma cho người mới' phù hợp mức Intermediate, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0342,Resource114,"Nội dung 'Figma cho người mới' rèn kỹ năng LayoutDesign, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0343,Resource115,"Tài liệu 'Bài tập thiết kế logo' thuộc ngành Thiết kế đồ họa, hỗ trợ chủ đề Branding và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0344,Resource115,"'Bài tập thiết kế logo' phù hợp mức ProjectReady, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0345,Resource115,"Nội dung 'Bài tập thiết kế logo' rèn kỹ năng TypographySkill, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0346,Resource116,"Tài liệu 'Mạch điện cơ bản' thuộc ngành Điện - điện tử, hỗ trợ chủ đề CircuitTheory và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0347,Resource116,"'Mạch điện cơ bản' phù hợp mức Intermediate, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0348,Resource116,"Nội dung 'Mạch điện cơ bản' rèn kỹ năng CircuitAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0349,Resource117,"Tài liệu 'PLC Siemens nhập môn' thuộc ngành Điện - điện tử, hỗ trợ chủ đề PLC và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0350,Resource117,"'PLC Siemens nhập môn' phù hợp mức ProjectReady, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0351,Resource117,"Nội dung 'PLC Siemens nhập môn' rèn kỹ năng PLCProgramming, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0352,Resource118,"Tài liệu 'Điện công nghiệp thực hành' thuộc ngành Điện - điện tử, hỗ trợ chủ đề IndustrialElectrical và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0353,Resource118,"'Điện công nghiệp thực hành' phù hợp mức Foundation, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0354,Resource118,"Nội dung 'Điện công nghiệp thực hành' rèn kỹ năng WiringDiagram, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0355,Resource119,"Tài liệu 'Vi điều khiển Arduino' thuộc ngành Điện - điện tử, hỗ trợ chủ đề EmbeddedSystems và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0356,Resource119,"'Vi điều khiển Arduino' phù hợp mức Intermediate, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0357,Resource119,"Nội dung 'Vi điều khiển Arduino' rèn kỹ năng Microcontroller, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0358,Resource120,"Tài liệu 'Điện tử công suất căn bản' thuộc ngành Điện - điện tử, hỗ trợ chủ đề PowerElectronics và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0359,Resource120,"'Điện tử công suất căn bản' phù hợp mức ProjectReady, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0360,Resource120,"Nội dung 'Điện tử công suất căn bản' rèn kỹ năng ElectricalSafety, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0361,Resource121,"Tài liệu 'Cảm biến trong hệ thống tự động' thuộc ngành Điện - điện tử, hỗ trợ chủ đề SensorSystem và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0362,Resource121,"'Cảm biến trong hệ thống tự động' phù hợp mức Foundation, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0363,Resource121,"Nội dung 'Cảm biến trong hệ thống tự động' rèn kỹ năng SensorCalibration, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0364,Resource122,"Tài liệu 'Đọc bản vẽ điện' thuộc ngành Điện - điện tử, hỗ trợ chủ đề CircuitTheory và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0365,Resource122,"'Đọc bản vẽ điện' phù hợp mức Intermediate, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0366,Resource122,"Nội dung 'Đọc bản vẽ điện' rèn kỹ năng CircuitAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0367,Resource123,"Tài liệu 'An toàn điện công nghiệp' thuộc ngành Điện - điện tử, hỗ trợ chủ đề PLC và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0368,Resource123,"'An toàn điện công nghiệp' phù hợp mức ProjectReady, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0369,Resource123,"Nội dung 'An toàn điện công nghiệp' rèn kỹ năng PLCProgramming, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0370,Resource124,"Tài liệu 'Bài tập phân tích mạch' thuộc ngành Điện - điện tử, hỗ trợ chủ đề IndustrialElectrical và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0371,Resource124,"'Bài tập phân tích mạch' phù hợp mức Foundation, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0372,Resource124,"Nội dung 'Bài tập phân tích mạch' rèn kỹ năng WiringDiagram, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0373,Resource125,"Tài liệu 'Dự án điều khiển đèn tự động' thuộc ngành Điện - điện tử, hỗ trợ chủ đề EmbeddedSystems và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0374,Resource125,"'Dự án điều khiển đèn tự động' phù hợp mức Intermediate, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0375,Resource125,"Nội dung 'Dự án điều khiển đèn tự động' rèn kỹ năng Microcontroller, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0376,Resource126,"Tài liệu 'Digital Marketing tổng quan' thuộc ngành Marketing số, hỗ trợ chủ đề DigitalMarketing và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0377,Resource126,"'Digital Marketing tổng quan' phù hợp mức Foundation, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0378,Resource126,"Nội dung 'Digital Marketing tổng quan' rèn kỹ năng SEOPlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0379,Resource127,"Tài liệu 'SEO cơ bản cho website' thuộc ngành Marketing số, hỗ trợ chủ đề SEO và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0380,Resource127,"'SEO cơ bản cho website' phù hợp mức Intermediate, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0381,Resource127,"Nội dung 'SEO cơ bản cho website' rèn kỹ năng ContentWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0382,Resource128,"Tài liệu 'Content Marketing thực hành' thuộc ngành Marketing số, hỗ trợ chủ đề ContentMarketing và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0383,Resource128,"'Content Marketing thực hành' phù hợp mức ProjectReady, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0384,Resource128,"Nội dung 'Content Marketing thực hành' rèn kỹ năng CampaignPlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0385,Resource129,"Tài liệu 'Quản trị mạng xã hội' thuộc ngành Marketing số, hỗ trợ chủ đề SocialMedia và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0386,Resource129,"'Quản trị mạng xã hội' phù hợp mức Foundation, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0387,Resource129,"Nội dung 'Quản trị mạng xã hội' rèn kỹ năng AnalyticsReading, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0388,Resource130,"Tài liệu 'Đo lường chiến dịch marketing' thuộc ngành Marketing số, hỗ trợ chủ đề MarketingAnalytics và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0389,Resource130,"'Đo lường chiến dịch marketing' phù hợp mức Intermediate, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0390,Resource130,"Nội dung 'Đo lường chiến dịch marketing' rèn kỹ năng SocialMediaManagement, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0391,Resource131,"Tài liệu 'Xây dựng thương hiệu cá nhân' thuộc ngành Marketing số, hỗ trợ chủ đề BrandCommunication và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0392,Resource131,"'Xây dựng thương hiệu cá nhân' phù hợp mức ProjectReady, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0393,Resource131,"Nội dung 'Xây dựng thương hiệu cá nhân' rèn kỹ năng BrandMessaging, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0394,Resource132,"Tài liệu 'Viết nội dung quảng cáo' thuộc ngành Marketing số, hỗ trợ chủ đề DigitalMarketing và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0395,Resource132,"'Viết nội dung quảng cáo' phù hợp mức Foundation, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0396,Resource132,"Nội dung 'Viết nội dung quảng cáo' rèn kỹ năng SEOPlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0397,Resource133,"Tài liệu 'Email Marketing căn bản' thuộc ngành Marketing số, hỗ trợ chủ đề SEO và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0398,Resource133,"'Email Marketing căn bản' phù hợp mức Intermediate, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0399,Resource133,"Nội dung 'Email Marketing căn bản' rèn kỹ năng ContentWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0400,Resource134,"Tài liệu 'Phân tích khách hàng mục tiêu' thuộc ngành Marketing số, hỗ trợ chủ đề ContentMarketing và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0401,Resource134,"'Phân tích khách hàng mục tiêu' phù hợp mức ProjectReady, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0402,Resource134,"Nội dung 'Phân tích khách hàng mục tiêu' rèn kỹ năng CampaignPlanning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0403,Resource135,"Tài liệu 'Kế hoạch truyền thông số' thuộc ngành Marketing số, hỗ trợ chủ đề SocialMedia và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0404,Resource135,"'Kế hoạch truyền thông số' phù hợp mức Foundation, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0405,Resource135,"Nội dung 'Kế hoạch truyền thông số' rèn kỹ năng AnalyticsReading, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0406,Resource136,"Tài liệu 'Pháp luật kinh doanh căn bản' thuộc ngành Luật kinh tế, hỗ trợ chủ đề BusinessLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0407,Resource136,"'Pháp luật kinh doanh căn bản' phù hợp mức ProjectReady, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0408,Resource136,"Nội dung 'Pháp luật kinh doanh căn bản' rèn kỹ năng ContractReading, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0409,Resource137,"Tài liệu 'Luật hợp đồng thực hành' thuộc ngành Luật kinh tế, hỗ trợ chủ đề ContractLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0410,Resource137,"'Luật hợp đồng thực hành' phù hợp mức Foundation, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0411,Resource137,"Nội dung 'Luật hợp đồng thực hành' rèn kỹ năng LegalReasoning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0412,Resource138,"Tài liệu 'Luật lao động cho doanh nghiệp' thuộc ngành Luật kinh tế, hỗ trợ chủ đề LaborLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0413,Resource138,"'Luật lao động cho doanh nghiệp' phù hợp mức Intermediate, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0414,Resource138,"Nội dung 'Luật lao động cho doanh nghiệp' rèn kỹ năng ComplianceChecklist, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0415,Resource139,"Tài liệu 'Pháp luật thuế cơ bản' thuộc ngành Luật kinh tế, hỗ trợ chủ đề TaxLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0416,Resource139,"'Pháp luật thuế cơ bản' phù hợp mức ProjectReady, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0417,Resource139,"Nội dung 'Pháp luật thuế cơ bản' rèn kỹ năng CaseAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0418,Resource140,"Tài liệu 'Sở hữu trí tuệ nhập môn' thuộc ngành Luật kinh tế, hỗ trợ chủ đề IntellectualProperty và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0419,Resource140,"'Sở hữu trí tuệ nhập môn' phù hợp mức Foundation, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0420,Resource140,"Nội dung 'Sở hữu trí tuệ nhập môn' rèn kỹ năng LegalWriting, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0421,Resource141,"Tài liệu 'Kỹ năng đọc hợp đồng' thuộc ngành Luật kinh tế, hỗ trợ chủ đề LegalCompliance và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0422,Resource141,"'Kỹ năng đọc hợp đồng' phù hợp mức Intermediate, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0423,Resource141,"Nội dung 'Kỹ năng đọc hợp đồng' rèn kỹ năng RiskIdentification, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0424,Resource142,"Tài liệu 'Phân tích tình huống pháp lý' thuộc ngành Luật kinh tế, hỗ trợ chủ đề BusinessLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0425,Resource142,"'Phân tích tình huống pháp lý' phù hợp mức ProjectReady, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0426,Resource142,"Nội dung 'Phân tích tình huống pháp lý' rèn kỹ năng ContractReading, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0427,Resource143,"Tài liệu 'Tuân thủ pháp luật doanh nghiệp' thuộc ngành Luật kinh tế, hỗ trợ chủ đề ContractLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0428,Resource143,"'Tuân thủ pháp luật doanh nghiệp' phù hợp mức Foundation, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0429,Resource143,"Nội dung 'Tuân thủ pháp luật doanh nghiệp' rèn kỹ năng LegalReasoning, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0430,Resource144,"Tài liệu 'Viết văn bản pháp lý' thuộc ngành Luật kinh tế, hỗ trợ chủ đề LaborLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0431,Resource144,"'Viết văn bản pháp lý' phù hợp mức Intermediate, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0432,Resource144,"Nội dung 'Viết văn bản pháp lý' rèn kỹ năng ComplianceChecklist, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0433,Resource145,"Tài liệu 'Case study tranh chấp thương mại' thuộc ngành Luật kinh tế, hỗ trợ chủ đề TaxLaw và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0434,Resource145,"'Case study tranh chấp thương mại' phù hợp mức ProjectReady, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0435,Resource145,"Nội dung 'Case study tranh chấp thương mại' rèn kỹ năng CaseAnalysis, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0436,Resource146,"Tài liệu 'Điều dưỡng cơ bản' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề BasicNursing và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0437,Resource146,"'Điều dưỡng cơ bản' phù hợp mức Intermediate, hướng đến mục tiêu UnderstandTheory, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0438,Resource146,"Nội dung 'Điều dưỡng cơ bản' rèn kỹ năng PatientObservation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0439,Resource147,"Tài liệu 'Chăm sóc người bệnh nhập môn' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề PatientCare và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0440,Resource147,"'Chăm sóc người bệnh nhập môn' phù hợp mức ProjectReady, hướng đến mục tiêu DevelopCareer, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0441,Resource147,"Nội dung 'Chăm sóc người bệnh nhập môn' rèn kỹ năng NursingProcedure, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0442,Resource148,"Tài liệu 'Giao tiếp trong y tế' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề MedicalCommunication và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0443,Resource148,"'Giao tiếp trong y tế' phù hợp mức Foundation, hướng đến mục tiêu LearnProgramming, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0444,Resource148,"Nội dung 'Giao tiếp trong y tế' rèn kỹ năng MedicalCommunication, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0445,Resource149,"Tài liệu 'Sơ cấp cứu căn bản' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề FirstAid và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0446,Resource149,"'Sơ cấp cứu căn bản' phù hợp mức Intermediate, hướng đến mục tiêu LearnBusiness, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0447,Resource149,"Nội dung 'Sơ cấp cứu căn bản' rèn kỹ năng FirstAidSkill, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0448,Resource150,"Tài liệu 'An toàn người bệnh' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề ClinicalSafety và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0449,Resource150,"'An toàn người bệnh' phù hợp mức ProjectReady, hướng đến mục tiêu ServiceOperations, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0450,Resource150,"Nội dung 'An toàn người bệnh' rèn kỹ năng ClinicalDocumentation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0451,Resource151,"Tài liệu 'Giáo dục sức khỏe cộng đồng' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề HealthEducation và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0452,Resource151,"'Giáo dục sức khỏe cộng đồng' phù hợp mức Foundation, hướng đến mục tiêu FinancialAnalysis, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0453,Resource151,"Nội dung 'Giáo dục sức khỏe cộng đồng' rèn kỹ năng SafetyCare, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0454,Resource152,"Tài liệu 'Ghi chép hồ sơ điều dưỡng' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề BasicNursing và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0455,Resource152,"'Ghi chép hồ sơ điều dưỡng' phù hợp mức Intermediate, hướng đến mục tiêu CreativeDesign, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0456,Resource152,"Nội dung 'Ghi chép hồ sơ điều dưỡng' rèn kỹ năng PatientObservation, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0457,Resource153,"Tài liệu 'Kỹ thuật đo dấu hiệu sinh tồn' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề PatientCare và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0458,Resource153,"'Kỹ thuật đo dấu hiệu sinh tồn' phù hợp mức ProjectReady, hướng đến mục tiêu LearnFoundation, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0459,Resource153,"Nội dung 'Kỹ thuật đo dấu hiệu sinh tồn' rèn kỹ năng NursingProcedure, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0460,Resource154,"Tài liệu 'Quy trình chăm sóc lâm sàng' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề MedicalCommunication và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0461,Resource154,"'Quy trình chăm sóc lâm sàng' phù hợp mức Foundation, hướng đến mục tiêu PrepareExam, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0462,Resource154,"Nội dung 'Quy trình chăm sóc lâm sàng' rèn kỹ năng MedicalCommunication, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
+E0463,Resource155,"Tài liệu 'Case study chăm sóc bệnh nhân' thuộc ngành Điều dưỡng và chăm sóc sức khỏe, hỗ trợ chủ đề FirstAid và có thể dùng làm nguồn học tập tham khảo trong hệ thống EAU-HyperRAG.",ContentEvidence
+E0464,Resource155,"'Case study chăm sóc bệnh nhân' phù hợp mức Intermediate, hướng đến mục tiêu ImproveCommunication, giúp người học lựa chọn tài liệu theo trình độ và mục tiêu học tập.",LevelGoalEvidence
+E0465,Resource155,"Nội dung 'Case study chăm sóc bệnh nhân' rèn kỹ năng FirstAidSkill, có ví dụ và tình huống thực hành để hỗ trợ truy xuất evidence khi hệ thống gợi ý tài liệu.",SkillEvidence
